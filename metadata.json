@@ -1,0 +1,6 @@
+{
+  "name": "RentWise",
+  "description": "Comprehensive Rental Management app for Tenants and Landlords with OOP Java backend, maintenance tracking, payments, notices, and theme customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
